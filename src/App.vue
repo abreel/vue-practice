@@ -7,8 +7,8 @@
 </template>
 
 <script>
-	import Header from '@/components/Header/Header'
-	import QuestionBox from '@/components/QuestionBox/QuestionBox'
+	import QuestionBox from '@/components/QuestionBox'
+	import Header from '@/components/Header'
 
 	export default {
 		name: 'App',
